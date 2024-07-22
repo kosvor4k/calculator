@@ -1,0 +1,26 @@
+*  {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 21px;
+}
+
+.Stroke {
+    width: 340px;
+    height: 40px;
+}
+
+.button {
+    width: 85px;
+    height: 65px;
+}
+
+.the-last-element-position {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.the-last-element {
+    width: 150px;
+}

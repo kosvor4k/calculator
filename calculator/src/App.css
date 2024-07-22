@@ -1,0 +1,38 @@
+
+.calculator {
+  position: absolute;
+  top: 33%;
+  left: 40%;
+  width: 380px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  background: linear-gradient(160deg, #f70052, #0015ff);
+  padding: 2rem 0;
+  border-radius: 5%;
+}
+
+.calculator-main {
+  width: 340px;
+}
+
+.Stroke {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 1rem;
+  background: linear-gradient(160deg, #e66465, #9198e5);
+  border-radius: 4px;
+  height: 20px;
+}
+
+button:hover {
+  border: none; 
+  background-color: rgb(0, 236, 253);
+}
+
+button:active {
+  border: none;
+  background-color: #ff0095;
+}
